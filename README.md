@@ -1,6 +1,6 @@
 # Energy‑Forecasting‑Project
 
-I spent some time working with time series forecasting models and found Auto ARIMA and AutoTS to be very effective. In this repository I compare and analyse these models to see how they automate electricity‑consumption forecasting for a microgrid.
+I spent some time working with time series forecasting models and found Auto ARIMA and AutoTS to be very effective. In this repository I compare and analyse these models to see how they automate electricity‑consumption forecasting for a microgrid. Due to confidentiality, the original dataset cannot be shared; however, the notebook is provided so you can apply the same workflow to your own data.
 
 ---
 
