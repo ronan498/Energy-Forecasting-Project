@@ -1,6 +1,6 @@
 # Energy‑Forecasting‑Project
 
-This repository hosts a Jupyter Notebook that automates electricity‑consumption forecasting for a microgrid using an ensemble of time‑series models via AutoTS.
+I spent some time working with time series forecasting models and found Auto ARIMA and AutoTS to be very effective. In this repository I compare and analyse these models to see how they automate electricity‑consumption forecasting for a microgrid.
 
 ---
 
