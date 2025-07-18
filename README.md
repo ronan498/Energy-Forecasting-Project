@@ -22,12 +22,3 @@ This repository hosts a Jupyter Notebook that automates electricity‑consumptio
    - Plots actual vs forecasted consumption with confidence intervals  
 
 ---
-
-## Key Features
-
-- **End‑to‑end pipeline** from data loading to final forecasts  
-- **Ensemble blending** for improved accuracy and robustness  
-- **Rich visualisations** for both data insights and model evaluation  
-- **Modular design** allowing easy swap‑in of other time‑series datasets  
-
----
